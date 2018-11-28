@@ -29,3 +29,8 @@ sudo apt-get install -y php5.6 php5.6-mcrypt php5.6-mbstring php5.6-curl php5.6-
 #sudo update-alternatives --set php /usr/bin/php5.6
 #sudo update-alternatives --set phpize /usr/bin/phpize5.6
 #sudo update-alternatives --set php-config /usr/bin/php-config5.6
+
+
+#until now both 'pecl' and 'pear' must be installed
+# you can do : pecl install redis
+
