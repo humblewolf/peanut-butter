@@ -1,0 +1,19 @@
+1. yaml has 3 levels:
+  a. clones , start with '- ', all on same indentation
+  - apple
+  - orange
+  - lemon
+  
+  b. brothers, seems to be on same indentation
+  - job: bro
+    name: bro1
+    addr: bro2
+    
+  c. childrens
+  - fruits:
+      name: child1
+      work: child2
+      job:
+        - child31
+        - child32
+    
