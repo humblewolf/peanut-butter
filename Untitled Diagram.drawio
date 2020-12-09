@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T18:41:42.706Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="2yQV1EdLbDl44-GZIJul" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T18:43:54.448Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Fo-2Fj_qwkcZvevGkXA0" version="14.0.0" type="github">
   <diagram id="saIJt2a8fF6lUq5iMUIm" name="Page-1">
     <mxGraphModel dx="1536" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="09mGutInpLpsxk74C0XZ-9" value="articles_controller.rb/ class ArticlesController" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="09mGutInpLpsxk74C0XZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="09mGutInpLpsxk74C0XZ-1" target="09mGutInpLpsxk74C0XZ-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
