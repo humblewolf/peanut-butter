@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T06:24:19.562Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="XpJYDtedH1IUTTtxJs3h" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T11:17:41.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="BaUh-RDCVmnhF2UEfmP0" version="14.0.0" type="github">
   <diagram id="saIJt2a8fF6lUq5iMUIm" name="Page-1">
     <mxGraphModel dx="1635" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="09mGutInpLpsxk74C0XZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="430" y="110" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="09mGutInpLpsxk74C0XZ-9" value="articles_controller.rb/ class ArticlesController" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="09mGutInpLpsxk74C0XZ-9" value="articles_controller.rb &lt;br&gt;class ArticlesController" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="150" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="09mGutInpLpsxk74C0XZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="09mGutInpLpsxk74C0XZ-7" edge="1">
@@ -21,7 +21,7 @@
         <mxCell id="fzc5Rr-1Nbopc30X980u-1" value="" style="rectangle;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fzc5Rr-1Nbopc30X980u-2" value="article.rb/ class Article" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fzc5Rr-1Nbopc30X980u-2" value="article.rb&lt;br&gt;class Article" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="625" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fzc5Rr-1Nbopc30X980u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fzc5Rr-1Nbopc30X980u-1">
